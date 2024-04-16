@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>seta-esquerda</title>
+	<defs>
+		<image  width="24" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAAXNSR0IB2cksfwAAAEhQTFRF////////////////////////////////////////////////////////////////////////////////////////////////zn2d6AAAABh0Uk5TAC3RxSDq/8zfAvM8AdfrLuwvMO3cMcnSA1Xw7wAAAIRJREFUeJyF0ssKgCAQheFzwmV36P3fL9pFVhCV3XUcyFX8H4WOEeGiW8v5ILohOMdwdCQcJZzdcJBv+N2HoHsQ9g9Ef0H2B6J+Q9wvSI/Dhv0HwGxSP6XJs91im9TtOqFVDwhUm1VHIsUfe71adexO2KsXdUvexYBm7VG2CqBJuuv32QG39SoZsbZ8fAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

@@ -1,0 +1,63 @@
+.rodape {
+    font-family: var(--font-principal);
+    display: flex;
+    flex-direction: column;
+}
+
+.redes {
+    padding-left: 3em;
+}
+
+.imagem__redes {
+    margin-right: 0.5em;
+}
+
+.informacoes {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.lista__grupo {
+    margin-top: 2em;
+    margin-left: 3.8em ;
+    padding: 0;
+    list-style: none;
+    line-height: 2;
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.lista__grupo__item {
+    font-size: 0.9rem;
+    font-weight: 300;
+    margin-bottom: 0.8em;
+    list-style: none;
+}
+
+.botao {
+   margin: 1em 3em;
+}
+
+.botao a {
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    background-color:transparent;
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 600;
+    font-size: 1em;
+    padding: 0.8em;
+    text-decoration: none; 
+}
+
+.netflix {
+    font-size: 0.7rem;
+    margin: 2em 0 0.5em 4.2em;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.lista__grupo :hover {
+    color: whitesmoke;
+}
+
+.botao :hover {
+    color: white;
+}

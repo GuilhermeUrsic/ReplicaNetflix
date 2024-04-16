@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+	<title>notificacao</title>
+	<defs>
+		<image  width="16" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IB2cksfwAAAK5QTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////zYsj6wAAADp0Uk5TADnh4Dizj5OyB4P04+TydAUIwCUpu6wEtgLLbAPqKjfeHu4RQr/BQRfxahQWIyJ+5fP76zE1IWDmXzz9Va4AAACbSURBVHicY2QAA0Yg+ANhQQRYgQI/EAKcjBDwASogyPiZ7y2DCFDkJUSAi4/xOZAS4GJ8ChaQYWR8BNYuz/gALKD45zHEZAYlxrsgARGeB1ABhS9viBJQ+cJ7Gyqg9on/JqMG0PqrUAHt//+ZGXW/fuJngIGPfDyMDPqMnxj4ga4W+P+Rge//RYjn9ICe+8J7Csm35ow/OI+DWQDidiprzNq0vAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>seta-esquerda</title>
+	<defs>
+		<image  width="17" height="26" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAaCAMAAABmdEcLAAAAAXNSR0IB2cksfwAAAU1QTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////DRzPgAAAAG90Uk5TAAABCCMmDD3B2V8PArj6/+9cDQSr9u5WCzDE+exQCTPI/ulMNs375kcHAzjS/ONDBTvW3z7c/TlB4Ng1RdMG87kO9RBj9MsuE2jHLRdu98IqGnO9Jx14tyUgfbKC8K6D+KgeOqMvvPKdHApAn4QbJXUzIQAAASlJREFUeJxF0b9LQlEUwPHzNcihZ8R9RA0hFIloRI1CYjkUQUtj/0L/TktbuzW0FjT0mvoJuWRDoBhEQrxSH1Qq73bz/fDc7cM9PzgHERBtXhSIjAEDrUfCuBG+/ZFYDOPLj8WGniShpSNJzIAnKXjVUWXLxkVBw9ehiDVrcpRp8KxDkbyp3FQmsapDkXySflMpBoYCEXueDzerE92aDkXsDO9uOsVnLRJZtTpdNz310opFSvWFR7Ey95HA+k3hwcgVEZThVnSB80CYKPJrfqxQfyKADa57ahkuvOE85LIMHOWVOPOGM5Nb4sdRi4pjP9ih2sJzVHqu4vtBE9Xe6ziqSL8SbBFrc5LTbGOHo2gye/euO/223T6JN59fg8syh6N7sf9/iYMY5A92LF0sAJ+kFgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="3" y="-2"/>
+</svg>

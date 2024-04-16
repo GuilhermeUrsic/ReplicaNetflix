@@ -1,0 +1,86 @@
+.cabecalho__sinopse {
+    margin-top: -3em;
+}
+
+.cabecalho__poster {
+    width: 33vw;
+    margin: 0 0 0 3em;
+}
+
+.cabecalho__sinopse-filme {
+    color: var(--branco);
+    font-size: 1.07em;
+    margin: 0.5em 0 2em 3em;
+    width: 27em;
+}
+
+.lista__botao {
+    display: flex;
+    list-style: none;
+}
+
+
+.botao__assistir {
+    background-color: var(--branco);
+    color: var(--preto);
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    text-align: center;
+    width: 10vw;
+    padding: 0.7em 1em;
+    margin: 0 0.8em 0 0.5em;
+    border-radius: 4px;
+}
+
+.botao__mais {
+    background-color: #575955;
+    color: var(--branco);
+    font-weight: 600;
+    display: flex;
+    text-decoration: none;
+    width: 15vw;
+    padding: 0.7em;
+    border-radius: 4px;
+}
+
+.cabecalho__imagem {
+    margin-right: 0.5em;
+}
+
+.container__menu {
+    height: auto;
+    width: auto;
+    display: flex;
+    align-items: center;
+}
+
+.menu__netflix {
+    padding: 0.7em 2em 0 2.5em;
+    width: 10em;
+}
+
+.lista__menu {
+    color: var(--branco);
+    font-size: 0.75rem;
+    font-weight: 400;
+    text-decoration: none;
+    margin: 0.7em 0.75em 0 1em;
+}
+
+.container__menud {
+    display: flex;
+    align-items: center;
+    margin-left: 38rem;
+}
+
+.lista__menud {
+    padding: 0.8em 0 0 0;
+    margin-left: 0.7em;
+}
+
+.lista__menu-seta {
+    padding: 0.8em 0 0 0;
+    margin-left: 0.4em;
+}

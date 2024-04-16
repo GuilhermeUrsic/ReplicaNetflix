@@ -1,0 +1,86 @@
+.listas {
+    margin: 120px 60px 0 60px;
+}
+.minha__lista {
+    font-family: var(--font-principal);
+    margin-top: 10em;
+
+}
+
+.slider {
+    display: grid;
+    grid-template-columns: repeat(3, 100%);
+    overflow: hidden;
+    scroll-behavior: smooth;
+    margin: 0.5em 2.9em;
+}
+
+section {
+    position: relative;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+
+.acido {
+    margin: 0 0 2em 0;
+}
+
+.minha__lista__titulo {
+    font-weight: 500;
+    font-size: 1.2rem;
+    margin: 7em 0 0 2.4em;
+    color: var(--branco);
+}
+
+.lista__filme {
+    padding: 0 2px;
+}
+
+.imagem__filme {
+    width: 100%;
+    padding: 2px;
+}
+
+.lista__filme:hover {
+    margin: 0 1.5em;
+    width: 30% 90% 30% 90%;
+    transform: scale(1.2);
+}
+
+.minha__lista__titulo-em-alta {
+    font-weight: 500;
+    font-size: 1.2rem;
+    margin: 2em 0 0 2.5em;
+    color: var(--branco);
+}
+
+.btnSeta {
+    position: absolute;
+    text-decoration: none;
+    background: rgb(0, 0, 0);
+    padding: 20px;
+    z-index: 1;
+}
+
+.btnSeta i {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background-color: transparent;
+}
+
+.btnSeta i:hover {
+    color: rgb(255, 255, 255);
+    transform: scale(1.15);
+}
+  
+  .btnSeta:nth-of-type(1) {
+    margin-top: 50px;
+    left: 0;
+    background-color: transparent;
+  }
+  
+  .btnSeta:nth-of-type(2) {
+    margin-top: 50px;
+    right: 0;
+    background-color: transparent;
+  }

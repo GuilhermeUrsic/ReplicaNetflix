@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+	<title>lupa</title>
+	<defs>
+		<image  width="16" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IB2cksfwAAAF1QTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////P23gxwAAAB90Uk5TAE2/9L5MhuJTDVHYhBLjVb3zDvIPvNo+QOk/POhCzm+VbSoAAAB7SURBVHicdc/rCoMwDAXgnlozxcvY8Je+/4spiCKisKFCGVgaFSsuECgfIT2BuBRuAYBpfQAx4LsBiD7mlWDWDJIWO/zEyPBaZgtv9C5kv4FB0WQhSDoGn6RdGqLdvo0lPDGl+tHswfwIQkmTpHajF0Dl3pKr8s9x51oBH2EYEZexOIwAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
